@@ -3,5 +3,3 @@ idea 2
 
 <head>
 <end>
-<javascript>
-sdf
